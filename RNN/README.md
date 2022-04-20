@@ -1,0 +1,2 @@
+## Recurrent Neural Network
+- this is a type of neural network whereby the output is feed as input while retaining the memory of the previous layer. usefull for stock market prediction and text prediciton. i used this to predict a screen play
